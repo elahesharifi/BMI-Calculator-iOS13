@@ -1,5 +1,5 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![](https://github.com/elahesharifi/BMI-Calculator-iOS13/blob/master/BMI.gif)
 
 #  BMI Calculator
 
