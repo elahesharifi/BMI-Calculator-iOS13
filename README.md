@@ -1,6 +1,6 @@
 #  BMI Calculator
 
-![](https://github.com/elahesharifi/BMI-Calculator-iOS13/blob/master/BMI.gif)
+![](https://github.com/elahesharifi/BMI-Calculator-iOS13/blob/master/BMI-Calculator.gif)
 
 ## Our Goal
 
